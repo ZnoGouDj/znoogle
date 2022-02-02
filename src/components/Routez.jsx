@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route, Navigate, useRoutes } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import Results from './Results';
 
 const Routez = () => {
