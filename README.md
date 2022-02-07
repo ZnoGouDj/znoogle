@@ -1,8 +1,6 @@
-## Description:
-Google Clone App 
+### [Live Site](https://znoogle.netlify.app/)
 
-###### Stack:
-React (Context & Hooks), Tailwind CSS, Google Search API
+![Chat Application](https://i.ibb.co/82pqxJz/Google-Clone-App.png)
 
-###### Link:
-[View Project](https://znoogle.netlify.app/)
+## Introduction:
+Google Clone App using React (Context & Hooks), Tailwind CSS, Google Search API
